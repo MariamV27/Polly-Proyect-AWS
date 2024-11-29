@@ -3,7 +3,7 @@
 
 ![enter image description here](./AWS-polly.jpeg)
 
-# The purpose of this project is to be able to use the AWS Polly service to convert text to audio with realistic human voices, using artificial intelligence and advanced speech synthesis techniques.
+## The purpose of this project is to be able to use the AWS Polly service to convert text to audio with realistic human voices, using artificial intelligence and advanced speech synthesis techniques.
 
 ## Project Architecture, Steps to Build the Project:
 
