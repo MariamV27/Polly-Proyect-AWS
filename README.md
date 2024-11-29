@@ -1,7 +1,9 @@
 
+# Polly-Proyect-AWS
+
 ![enter image description here](./AWS-polly.jpeg)
 
-# Polly-Proyect-AWS
+# The purpose of this project is to be able to use the AWS Polly service to convert text to audio with realistic human voices, using artificial intelligence and advanced speech synthesis techniques.
 
 ## Project Architecture, Steps to Build the Project:
 
@@ -11,7 +13,8 @@
     
 -   Step 3: Create an IAM Policy (IAM Policy Name: polly-lambda-policy)  
     Policy Defination:
-    {
+>
+> {
   "Version": "2012-10-17",
   "Statement": [
       {
@@ -34,6 +37,7 @@
       }
   ]
 }
+>
 
 -   Step 4: Create an IAM Role (IAM Role Name: polly-lambda-role) and attach amc-polly-lambda-policy and AWSLambdaBasicExecutionRole Policies
     
